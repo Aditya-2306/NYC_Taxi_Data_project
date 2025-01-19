@@ -4,7 +4,7 @@
 This project implements an end-to-end data engineering solution for processing NYC Taxi trip data using Azure Data Factory, Databricks, and PySpark. The pipeline automatically fetches data from the NYC Taxi & Limousine Commission website, processes it through various transformation stages, and stores it in a structured format for analysis.
 
 ## Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](Architecture.png,Pipeline.png)
 
 ### Components:
 - **Data Ingestion**: Azure Data Factory pipelines with dynamic parameters
