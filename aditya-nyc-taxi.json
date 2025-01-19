@@ -1,0 +1,9 @@
+{
+	"name": "aditya-nyc-taxi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69459073-0b76-451d-8c7b-8e3d7556d6e7",
+		"tenantId": "92bb70dc-348a-4a63-bdad-98cb8098cee0"
+	}
+}
