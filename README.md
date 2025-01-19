@@ -5,6 +5,7 @@ This project implements an end-to-end data engineering solution for processing N
 
 ## Architecture
 ![Architecture Diagram](Architecture.png)
+![For each](Pipeline.png)
 
 ### Components:
 - **Data Ingestion**: Azure Data Factory pipelines with dynamic parameters
